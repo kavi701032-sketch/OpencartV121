@@ -1,0 +1,21 @@
+07:30:05.377 [main] INFO  testCases.TC_001_AccountRegistration - *****Starting TC_001_AccountRegistration******
+07:30:05.412 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on My Account
+07:30:07.614 [main] INFO  testCases.TC_001_AccountRegistration - Clicked Register
+07:30:07.615 [main] INFO  testCases.TC_001_AccountRegistration - Providing Customer Details
+07:30:23.187 [main] INFO  testCases.TC_001_AccountRegistration - Validating the register
+07:30:23.203 [main] ERROR testCases.TC_001_AccountRegistration - Test Failed....
+07:30:23.203 [main] DEBUG testCases.TC_001_AccountRegistration - Debug logs....
+14:58:02.801 [main] INFO  testCases.TC_001_AccountRegistration - *****Starting TC_001_AccountRegistration******
+14:58:02.831 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on My Account
+14:58:04.803 [main] INFO  testCases.TC_001_AccountRegistration - Clicked Register
+14:58:04.805 [main] INFO  testCases.TC_001_AccountRegistration - Providing Customer Details
+14:58:06.149 [main] INFO  testCases.TC_001_AccountRegistration - Validating the register
+14:58:06.163 [main] ERROR testCases.TC_001_AccountRegistration - Test Failed....
+14:58:06.164 [main] DEBUG testCases.TC_001_AccountRegistration - Debug logs....
+15:00:50.910 [main] INFO  testCases.TC_001_AccountRegistration - *****Starting TC_001_AccountRegistration******
+15:00:50.938 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on My Account
+15:01:12.345 [main] INFO  testCases.TC_001_AccountRegistration - Clicked Register
+15:01:12.348 [main] INFO  testCases.TC_001_AccountRegistration - Providing Customer Details
+15:01:13.636 [main] INFO  testCases.TC_001_AccountRegistration - Validating the register
+15:01:13.658 [main] ERROR testCases.TC_001_AccountRegistration - Test Failed....
+15:01:13.658 [main] DEBUG testCases.TC_001_AccountRegistration - Debug logs....
